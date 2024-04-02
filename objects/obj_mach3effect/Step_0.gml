@@ -1,0 +1,2 @@
+if (playerid.state != (109 << 0) && playerid.state != (90 << 0) && playerid.state != (17 << 0) && playerid.state != (9 << 0) && playerid.state != (96 << 0) && playerid.state != (70 << 0) && playerid.state != (22 << 0) && playerid.state != (71 << 0) && playerid.state != (42 << 0) && playerid.state != (35 << 0) && playerid.state != (40 << 0) && playerid.state != (43 << 0) && playerid.state != (37 << 0) && playerid.state != (33 << 0) && playerid.state != (63 << 0))
+    instance_destroy()

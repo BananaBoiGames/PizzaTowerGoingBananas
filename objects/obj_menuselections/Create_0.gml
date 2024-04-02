@@ -1,0 +1,9 @@
+optionselect = 0
+level[0] = "1.ENTRANCE"
+level[1] = "2.MEDIVAL"
+level[2] = "3.RUIN"
+level[3] = "4.BLOODSAUCE"
+level[4] = "5.STRONGCOLD"
+level[5] = "6.DESERT"
+b = 0
+levelselect = 0
